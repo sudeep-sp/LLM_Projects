@@ -7,4 +7,4 @@ chromadb
 streamlit
 pandas
 python-dotenv==1.0.0
-sqlite==3.35.5
+pysqlite3-binary==0.4.6
